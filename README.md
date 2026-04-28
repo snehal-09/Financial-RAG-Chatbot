@@ -40,7 +40,3 @@ This project is useful for financial advisors, banking professionals, investment
 * Streamlit
 * PyPDF
 * Pandas
-
-## GitHub Repository Name
-
-Financial-RAG-Chatbot-Distributed-RAG
